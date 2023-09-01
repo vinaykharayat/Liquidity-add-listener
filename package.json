@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "ethers": "^6.7.1"
+    "ethers": "^6.7.1",
+    "unix-timestamp": "^1.0.3"
   }
 }
